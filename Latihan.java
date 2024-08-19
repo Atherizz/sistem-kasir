@@ -17,6 +17,7 @@ public class Latihan {
         System.out.println("SISMA MART");
         System.out.println("SELAMAT DATANG DI SISMA MART \nSelamat Berbelanja!");
         System.out.println("PROMO!! ----- PEMBELIAN DI ATAS 100.000 AKAN MENDAPATKAN DISKON 20%");
+        System.out.println("TERIMA KASIH TELAH BERBELANJA");
 
         for (int i = 0; i < 4; i++) {
             System.out.print("Masukkan Barang " + (i + 1) + ":");
